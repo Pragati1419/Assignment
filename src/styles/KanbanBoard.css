@@ -1,0 +1,15 @@
+.kanban-board column {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .kanban-board column header {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  .kanban-board column ticket {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
